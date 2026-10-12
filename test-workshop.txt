@@ -1,0 +1,2 @@
+Hello from Workshop! 工坊驻场工程师「小坊」连接测试成功。
+Timestamp: 2026-08-25
